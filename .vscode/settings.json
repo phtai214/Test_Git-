@@ -6,7 +6,7 @@
     "terminal.integrated.accessibleViewPreserveCursorPosition": false,
     "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
     "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
     "editor.fontFamily": "Dark Mono, Source Code Pro, Input Mono, Inconsolata, Arial, Helvetica, san-serif",
     "terminal.integrated.fontFamily": "monospace"
 }
